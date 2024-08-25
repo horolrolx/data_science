@@ -26,3 +26,7 @@
 # R
 - 통계와 시각화를 위해 만들어진 언어
 - 통계를 위해 만든 언어
+
+# IDE
+- Integrated Development Environment
+- 통합 개발 환경
